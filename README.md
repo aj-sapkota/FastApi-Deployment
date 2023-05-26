@@ -1,5 +1,5 @@
 # Machine Learning Deploy using FastApi
-This repository contains the necessary files for the  to car sales prediction. 
+This repository contains the necessary files for the  car sales prediction using ml model. 
 
 # Usage
 To run the project as a FastAPI application, execute the main.py file.
